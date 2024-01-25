@@ -1,0 +1,15 @@
+C:\Users\hzs0084\Intro to Programming\C#\Calories Consumed\bin\Debug\net8.0\Calories Consumed.exe
+C:\Users\hzs0084\Intro to Programming\C#\Calories Consumed\bin\Debug\net8.0\Calories Consumed.deps.json
+C:\Users\hzs0084\Intro to Programming\C#\Calories Consumed\bin\Debug\net8.0\Calories Consumed.runtimeconfig.json
+C:\Users\hzs0084\Intro to Programming\C#\Calories Consumed\bin\Debug\net8.0\Calories Consumed.dll
+C:\Users\hzs0084\Intro to Programming\C#\Calories Consumed\bin\Debug\net8.0\Calories Consumed.pdb
+C:\Users\hzs0084\Intro to Programming\C#\Calories Consumed\obj\Debug\net8.0\Calories Consumed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hzs0084\Intro to Programming\C#\Calories Consumed\obj\Debug\net8.0\Calories Consumed.AssemblyInfoInputs.cache
+C:\Users\hzs0084\Intro to Programming\C#\Calories Consumed\obj\Debug\net8.0\Calories Consumed.AssemblyInfo.cs
+C:\Users\hzs0084\Intro to Programming\C#\Calories Consumed\obj\Debug\net8.0\Calories Consumed.csproj.CoreCompileInputs.cache
+C:\Users\hzs0084\Intro to Programming\C#\Calories Consumed\obj\Debug\net8.0\Calories Consumed.sourcelink.json
+C:\Users\hzs0084\Intro to Programming\C#\Calories Consumed\obj\Debug\net8.0\Calories Consumed.dll
+C:\Users\hzs0084\Intro to Programming\C#\Calories Consumed\obj\Debug\net8.0\refint\Calories Consumed.dll
+C:\Users\hzs0084\Intro to Programming\C#\Calories Consumed\obj\Debug\net8.0\Calories Consumed.pdb
+C:\Users\hzs0084\Intro to Programming\C#\Calories Consumed\obj\Debug\net8.0\Calories Consumed.genruntimeconfig.cache
+C:\Users\hzs0084\Intro to Programming\C#\Calories Consumed\obj\Debug\net8.0\ref\Calories Consumed.dll

@@ -14,9 +14,9 @@
         int oneServing = 2;
 
         Console.WriteLine("How many number of cookies did you eat?");
-        int cookiesConsumed = Convert.ToInt32(Console.ReadLine());
+        double cookiesConsumed = Convert.ToDouble(Console.ReadLine());
 
-        int totalCalories = cookiesConsumed * oneCookie;
+        double totalCalories = cookiesConsumed * oneCookie;
 
         double totalServings = Convert.ToDouble(cookiesConsumed / oneServing);
 
