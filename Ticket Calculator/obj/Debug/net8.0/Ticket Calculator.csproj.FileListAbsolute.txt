@@ -1,0 +1,15 @@
+C:\Users\hzs0084\Intro to Programming\C#\Ticket Calculator\bin\Debug\net8.0\Ticket Calculator.exe
+C:\Users\hzs0084\Intro to Programming\C#\Ticket Calculator\bin\Debug\net8.0\Ticket Calculator.deps.json
+C:\Users\hzs0084\Intro to Programming\C#\Ticket Calculator\bin\Debug\net8.0\Ticket Calculator.runtimeconfig.json
+C:\Users\hzs0084\Intro to Programming\C#\Ticket Calculator\bin\Debug\net8.0\Ticket Calculator.dll
+C:\Users\hzs0084\Intro to Programming\C#\Ticket Calculator\bin\Debug\net8.0\Ticket Calculator.pdb
+C:\Users\hzs0084\Intro to Programming\C#\Ticket Calculator\obj\Debug\net8.0\Ticket Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hzs0084\Intro to Programming\C#\Ticket Calculator\obj\Debug\net8.0\Ticket Calculator.AssemblyInfoInputs.cache
+C:\Users\hzs0084\Intro to Programming\C#\Ticket Calculator\obj\Debug\net8.0\Ticket Calculator.AssemblyInfo.cs
+C:\Users\hzs0084\Intro to Programming\C#\Ticket Calculator\obj\Debug\net8.0\Ticket Calculator.csproj.CoreCompileInputs.cache
+C:\Users\hzs0084\Intro to Programming\C#\Ticket Calculator\obj\Debug\net8.0\Ticket Calculator.sourcelink.json
+C:\Users\hzs0084\Intro to Programming\C#\Ticket Calculator\obj\Debug\net8.0\Ticket Calculator.dll
+C:\Users\hzs0084\Intro to Programming\C#\Ticket Calculator\obj\Debug\net8.0\refint\Ticket Calculator.dll
+C:\Users\hzs0084\Intro to Programming\C#\Ticket Calculator\obj\Debug\net8.0\Ticket Calculator.pdb
+C:\Users\hzs0084\Intro to Programming\C#\Ticket Calculator\obj\Debug\net8.0\Ticket Calculator.genruntimeconfig.cache
+C:\Users\hzs0084\Intro to Programming\C#\Ticket Calculator\obj\Debug\net8.0\ref\Ticket Calculator.dll
