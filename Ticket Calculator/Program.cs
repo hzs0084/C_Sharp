@@ -2,7 +2,6 @@
 {
     private static void Main(string[] args)
     {
-        Console.WriteLine("Welcome to the ticket sales program!");
         displayCosts(getCostA, getCostB, getCostC);
     }
 
@@ -43,6 +42,7 @@
     static void displayCosts(Func<int> getCostA, Func<int> getCostB, Func<int> getCostC)
     {
         
+        Console.WriteLine("Welcome to the ticket sales program!");
         int classACost = getCostA();
         int classBCost = getCostB();
         int classCCost = getCostC();
