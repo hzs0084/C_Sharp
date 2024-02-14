@@ -32,13 +32,6 @@
         return costC;
     }
 
-    // static int calculateCostA(int classA)
-    // {
-    //     int classAticket = 500;
-    //     int costA = classA * classAticket;
-    //     return costA;
-    // }
-
     static void displayCosts(Func<int> getCostA, Func<int> getCostB, Func<int> getCostC)
     {
         
