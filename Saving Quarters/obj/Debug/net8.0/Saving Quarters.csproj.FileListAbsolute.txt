@@ -1,0 +1,15 @@
+C:\Users\hzs0084\Intro to Programming\C#\Saving Quarters\bin\Debug\net8.0\Saving Quarters.exe
+C:\Users\hzs0084\Intro to Programming\C#\Saving Quarters\bin\Debug\net8.0\Saving Quarters.deps.json
+C:\Users\hzs0084\Intro to Programming\C#\Saving Quarters\bin\Debug\net8.0\Saving Quarters.runtimeconfig.json
+C:\Users\hzs0084\Intro to Programming\C#\Saving Quarters\bin\Debug\net8.0\Saving Quarters.dll
+C:\Users\hzs0084\Intro to Programming\C#\Saving Quarters\bin\Debug\net8.0\Saving Quarters.pdb
+C:\Users\hzs0084\Intro to Programming\C#\Saving Quarters\obj\Debug\net8.0\Saving Quarters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hzs0084\Intro to Programming\C#\Saving Quarters\obj\Debug\net8.0\Saving Quarters.AssemblyInfoInputs.cache
+C:\Users\hzs0084\Intro to Programming\C#\Saving Quarters\obj\Debug\net8.0\Saving Quarters.AssemblyInfo.cs
+C:\Users\hzs0084\Intro to Programming\C#\Saving Quarters\obj\Debug\net8.0\Saving Quarters.csproj.CoreCompileInputs.cache
+C:\Users\hzs0084\Intro to Programming\C#\Saving Quarters\obj\Debug\net8.0\Saving Quarters.sourcelink.json
+C:\Users\hzs0084\Intro to Programming\C#\Saving Quarters\obj\Debug\net8.0\Saving Quarters.dll
+C:\Users\hzs0084\Intro to Programming\C#\Saving Quarters\obj\Debug\net8.0\refint\Saving Quarters.dll
+C:\Users\hzs0084\Intro to Programming\C#\Saving Quarters\obj\Debug\net8.0\Saving Quarters.pdb
+C:\Users\hzs0084\Intro to Programming\C#\Saving Quarters\obj\Debug\net8.0\Saving Quarters.genruntimeconfig.cache
+C:\Users\hzs0084\Intro to Programming\C#\Saving Quarters\obj\Debug\net8.0\ref\Saving Quarters.dll
