@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Saving Quarters")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cda4792afcb98dc38b7d9aa8a6318beef9d1ecc5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90e4c8013d79619dd6c5d5e4fd55f581d687df3c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Saving Quarters")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Saving Quarters")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

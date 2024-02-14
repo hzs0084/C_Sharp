@@ -33,13 +33,15 @@
     {
         int days = getDays();
         double oneQuarter = 0.25;
+        double totalQuarters = oneQuarter;
 
         Console.WriteLine("Day \t Amount");
-        Console.WriteLine("--- \t -------------");
+        Console.WriteLine("-------------------");
 
         for (int i = 1; i <= days; i++)
         {
-            Console.WriteLine($"{i}\t {oneQuarter * i}");
+            Console.WriteLine($"{i}\t {totalQuarters:F2}");
+            totalQuarters *= 2;
         }
 
     }
