@@ -24,7 +24,7 @@
                 Console.WriteLine("Invalid number of semesters");
                 break;
         }
-        Console.ReadLine(); //Pause the console to see the result
+        Console.ReadKey(); //Pause the console to see the result
     }
 
     
