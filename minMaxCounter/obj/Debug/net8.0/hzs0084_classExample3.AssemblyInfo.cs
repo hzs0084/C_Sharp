@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("hzs0084_classExample3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0f29c2d542da64e02f55f6755c7f22dc58fe3e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("hzs0084_classExample3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("hzs0084_classExample3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

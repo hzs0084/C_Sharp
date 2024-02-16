@@ -50,7 +50,7 @@
                 }
 
             } count++;
-        }while (num !=99);
+        }while (num != -99);
 
     }
 
