@@ -17,13 +17,12 @@
     static double getAnswer()
     {
         double answer;
-        string input;
         bool validInput;
 
         do 
         {
             Console.WriteLine("Enter the sum of the numbers: ");
-            input = Console.ReadLine();
+            string input = Console.ReadLine();
             validInput = double.TryParse(input, out answer);
             if (!validInput)
             {
@@ -55,7 +54,7 @@
     static void displayNum(double num1, double num2)
     {
         Console.WriteLine($"The first number is {num1}");
-        Console.WriteLine($"The first number is {num2}");
+        Console.WriteLine($"The second number is {num2}");
     }
 
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hzs0084\\OneDrive - Auburn University\\HCOB-VLab\\Desktop\\ISMN-3080-001\\hzs0084_RandomExample\\hzs0084_RandomExample.csproj": {}
+    "C:\\Users\\hzs0084\\Intro to Programming\\C#\\UsingRandomExample\\hzs0084_RandomExample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hzs0084\\OneDrive - Auburn University\\HCOB-VLab\\Desktop\\ISMN-3080-001\\hzs0084_RandomExample\\hzs0084_RandomExample.csproj": {
+    "C:\\Users\\hzs0084\\Intro to Programming\\C#\\UsingRandomExample\\hzs0084_RandomExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hzs0084\\OneDrive - Auburn University\\HCOB-VLab\\Desktop\\ISMN-3080-001\\hzs0084_RandomExample\\hzs0084_RandomExample.csproj",
+        "projectUniqueName": "C:\\Users\\hzs0084\\Intro to Programming\\C#\\UsingRandomExample\\hzs0084_RandomExample.csproj",
         "projectName": "hzs0084_RandomExample",
-        "projectPath": "C:\\Users\\hzs0084\\OneDrive - Auburn University\\HCOB-VLab\\Desktop\\ISMN-3080-001\\hzs0084_RandomExample\\hzs0084_RandomExample.csproj",
+        "projectPath": "C:\\Users\\hzs0084\\Intro to Programming\\C#\\UsingRandomExample\\hzs0084_RandomExample.csproj",
         "packagesPath": "C:\\Users\\hzs0084\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hzs0084\\OneDrive - Auburn University\\HCOB-VLab\\Desktop\\ISMN-3080-001\\hzs0084_RandomExample\\obj\\",
+        "outputPath": "C:\\Users\\hzs0084\\Intro to Programming\\C#\\UsingRandomExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hzs0084\\AppData\\Roaming\\NuGet\\NuGet.Config"
