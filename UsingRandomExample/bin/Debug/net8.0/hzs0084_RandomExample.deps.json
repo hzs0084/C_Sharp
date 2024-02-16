@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "hzs0084_RandomExample/1.0.0": {
+        "runtime": {
+          "hzs0084_RandomExample.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hzs0084_RandomExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
